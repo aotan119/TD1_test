@@ -29,6 +29,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//できた
 		//統合
 		//統合したい
+		//ガチャガチャ
 
 		///
 		/// ↑更新処理ここまで
