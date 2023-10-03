@@ -34,6 +34,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		//masterブランチ統合テスト
 
+		//masterブランチ統合テスト2回目
+
 		///
 		/// ↑更新処理ここまで
 		///
