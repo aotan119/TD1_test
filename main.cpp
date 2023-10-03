@@ -32,6 +32,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//nakanumaブランチでコミットのみを行う
 		//nakanumaブランチでプッシュを行う
 
+		//masterブランチ統合テスト
+
 		///
 		/// ↑更新処理ここまで
 		///
