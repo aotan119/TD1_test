@@ -25,9 +25,9 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
-		//テスト
-		//できた
+		//aaa
 		
+
 
 		//nakanumaブランチの作成
 
