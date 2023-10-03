@@ -29,8 +29,6 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//できた
 		
 
-		//nakanumaブランチの作成
-
 		///
 		/// ↑更新処理ここまで
 		///
