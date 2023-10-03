@@ -31,6 +31,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		//統合したい
 		//ガチャガチャ
 
+		//nakanumaブランチの作成
+
 		///
 		/// ↑更新処理ここまで
 		///
