@@ -26,10 +26,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 
 		//aaa
-		
+		//マージ
 
-
-		//nakanumaブランチの作成
 
 		//nakanumaブランチの作成
 		//nakanumaブランチでコミットのみを行う
